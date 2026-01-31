@@ -1,1 +1,0 @@
-print("I am building Lee Automation not just to write code, but to build a life of freedom for my family and faithfulness to god.Every line of code is a step toward freedom; every moment of study is an act of stewardship.")
