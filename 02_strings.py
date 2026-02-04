@@ -10,3 +10,10 @@ print(motto.title()) # Capitalize Each word  for branding
 formatted_motto = f"Daily Mission:\n\t{motto.title()}"
 
 print(formatted_motto)
+
+# The "Dirty" Data
+user_email = "  xavier@leeautomation.com   "
+
+# The "Cleaned" Data
+print(f"Original: '{user_email}'")
+print(f"Cleaned: '{user_email.strip()}'")
