@@ -29,4 +29,19 @@ This repository tracks my progress through a 12-week intensive foundation phase:
 * `/notes`: Insights gathered from *Smart Notes* and *Atomic Habits*.
 
 ---
+## 📈 Progress Log
+
+### Week 1: Python Foundations (COMPLETED ✅)
+- [x] **Mon:** Setup, Git Workflow, and Variables.
+- [x] **Tue:** String Manipulation & Whitespace (`\n`, `\t`).
+- [x] **Wed:** Number Theory (Integers & Floats).
+- [x] **Thu:** Professional F-String Dashboards.
+- [x] **Fri:** The "Steward's Inventory" Service Menu.
+
+### Week 2: Data Structures (UPCOMING ⏳)
+- [ ] Lists & Organizing Data
+- [ ] Working with Loops
+- [ ] If/Else Logic
+
+---
 *Created and maintained by Lee Automation.*
