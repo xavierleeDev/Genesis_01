@@ -46,4 +46,18 @@ This repository tracks my progress through a 12-week intensive foundation phase:
 - [X] **Fri:** Tuples & Final Week 2 Inventory.
 
 ---
+
+---
+
+### 💡 Week 2 Reflection: Data Systems
+**The Big Picture:** This week, I moved from handling single variables to managing "inventories" of data. I learned that automation isn't just about speed; it's about **structure**.
+
+**Key Wins:**
+* **The Loop Engine:** I successfully built a loop that can process infinite items with just 3 lines of code. This is the "scale" I need for Lee Automation.
+* **The Bracket Breakthrough:** I learned the hard way that `[]` (Lists) and `{}` (Dictionaries) are not the same. Debugging this error myself was a huge confidence boost.
+* **The Narrator vs. Stuntman:** I now understand that `print()` is for testing logic, and real action (The Stuntman) happens later.
+
+**Challenge for Next Week:**
+* My goal for Week 3 is to master **If-Statements**. I want to teach my scripts to make decisions based on the data they find.
+---
 *Created and maintained by Lee Automation.*
