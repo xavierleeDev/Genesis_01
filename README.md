@@ -47,8 +47,6 @@ This repository tracks my progress through a 12-week intensive foundation phase:
 
 ---
 
----
-
 ### 💡 Week 2 Reflection: Data Systems
 **The Big Picture:** This week, I moved from handling single variables to managing "inventories" of data. I learned that automation isn't just about speed; it's about **structure**.
 
