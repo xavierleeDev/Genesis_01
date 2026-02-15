@@ -38,7 +38,7 @@ This repository tracks my progress through a 12-week intensive foundation phase:
 - [x] **Thu:** Professional F-String Dashboards.
 - [x] **Fri:** The "Steward's Inventory" Service Menu.
 
-### Week 2: Data Structures (UPCOMING ⏳)
+### Week 2: Data Structures (COMPLETED ✅ )
 - [x] **Mon:** List Mastery (Indexing, Append, Insert, and Bracket Syntax).
 - [x] **Tue:** Removing Items & Organizing Lists.
 - [x] **Wed:** Working with Loops (The Automation Engine).
